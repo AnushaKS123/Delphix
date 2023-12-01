@@ -1,0 +1,5 @@
+delphixpy
+docopt
+pip
+python-dateutil
+setuptools

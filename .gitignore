@@ -1,0 +1,10 @@
+*.gz
+*.log
+*.swp
+*.pyc
+*.key
+*.pub
+*.DS_Store
+dxtools.conf
+.tox/
+.coverage
